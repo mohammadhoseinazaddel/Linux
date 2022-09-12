@@ -33,18 +33,16 @@ df
 
 ```df -T``` shows the disk usage along with each block's filesystem type (e.g., xfs, ext2, ext3, btrfs, etc.)
 
+show rotation
 ```
 lsblk
 ``` 
-
-```
-lsblk -d -o name,rota
-```  ssd or hdd
 
 
 ```fdisk -l``` shows disk size along with disk partitioning information
 
 #### file size in disk
+
 ```du``` shows the disk usage of files, folders, etc. in the default kilobyte size
 
 ```du -h``` shows disk usage in human-readable format for all directories and subdirectories
