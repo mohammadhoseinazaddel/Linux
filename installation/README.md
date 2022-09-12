@@ -1,5 +1,5 @@
 
-extentions 
+## extentions 
 
  Mate Translate 
  
@@ -42,14 +42,14 @@ sudo apt install python3-pip
 ```
 
 
--installing chrome
+### installing chrome
 ```
 sudo dpkg -i google-chrome-stable_current_amd64.deb 
 ```
  
 
 
--installing cisco
+### installing cisco
 
 ```
 sudo apt install network-manager-openconnect-gnome
@@ -63,7 +63,7 @@ sudo apt install network-manager-openconnect-gnome
 
 
 
--installing guake f12
+### installing guake f12
 ```
 sudo apt install guake
 ```
@@ -77,7 +77,7 @@ recommanded changing
 
 
              
--installing telegram
+### installing telegram
   https://desktop.telegram.org/
 or
 ```
@@ -96,7 +96,7 @@ sudo snap install telegram-cli
 ```
 
 
--instaling oh my zsh
+### instaling oh my zsh
   guaidanc:https://github.com/robbyrussell/oh-my-zsh/wiki/Installing-ZSH
 
 ```
@@ -127,7 +127,7 @@ source .zshrc
   reastart
  
 
--installing zsh plugins(autosuggestions)
+### installing zsh plugins(autosuggestions)
 
   guaidenc:https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md
 ```  
@@ -142,7 +142,7 @@ nano .zshrc
 source .zshrc
 ```
 
--installing trash box:
+### installing trash box:
 
 ```
 sudo apt install npm
@@ -162,7 +162,7 @@ nano .zshrc
 
 
 
--installing pycharm
+### installing pycharm
 ```
 sudo snap install pycharm-professional --classic
 ```
@@ -183,7 +183,7 @@ git--> settin-->ssh
 
 
 
--installing anaconda
+### installing anaconda
   https://www.anaconda.com/distribution/#download-section
   Anaconda3-2019.10-Linux-x86_64.sh
   bash . sh
@@ -193,7 +193,7 @@ git--> settin-->ssh
 
 
 
--installing docker
+### installing docker
 ```
 sudo apt install apt-transport-https ca-certificates curl software-properties-common
 ```
@@ -220,7 +220,7 @@ sudo systemctl status docker
 
 
 
--installing docker-compose
+### installing docker-compose
 ```
 sudo curl -L "https://github.com/docker/compose/releases/download/1.27.4/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
 ```
@@ -234,7 +234,7 @@ sudo ln -s /usr/local/bin/docker-compose /usr/bin/docker-compose
  https://docs.docker.com/compose/install/
  
  
--installing docker postgresql
+### installing docker postgresql
 ```
 docker pull postgres
 ```
@@ -253,7 +253,7 @@ https://stackoverflow.com/questions/48522640/failure-to-connect-to-docker-postgr
 
 
 
--installing local postgressql (not recommanded because of authentication problems)
+### installing local postgressql (not recommanded because of authentication problems)
  sudo sh -c 'echo "deb http://apt.postgresql.org/pub/repos/apt $(lsb_release -cs)-pgdg main" > /etc/apt/sources.list.d/pgdg.list'
  wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo apt-key add -
  sudo apt-get update
@@ -288,7 +288,7 @@ https://stackoverflow.com/questions/48522640/failure-to-connect-to-docker-postgr
 
 
 
--installing postman
+### installing postman
 ```
 wget https://dl.pstmn.io/download/latest/linux64 -O postman-linux-x64.tar.gz
 ```
@@ -319,7 +319,7 @@ EOF
 
 
 
--installing AnyDesk
+### installing AnyDesk
 ```
 wget -qO - https://keys.anydesk.com/repos/DEB-GPG-KEY | sudo apt-key add -
 ```
@@ -335,7 +335,7 @@ sudo apt install anydesk
 
 
 
--installing vmvare
+### installing vmvare
 https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html
 ```
 sudo apt-get update 
@@ -364,7 +364,7 @@ https://www.youtube.com/watch?v=OHEiP1V0cCI
 
 
 
--installing avidemux
+### installing avidemux
 ```
 sudo add-apt-repository ppa:ubuntuhandbook1/avidemux
 ```
@@ -382,7 +382,7 @@ sudo apt install avidemux2.7-qt5 avidemux2.7-qt5-data avidemux2.7-plugins-qt5 av
 
 
 
-### mint
+## mint
 
 -installing redshift 2 qredshift in mint
 ```
@@ -399,7 +399,7 @@ https://cinnamon-spices.linuxmint.com/applets/view/313
 
 
 
--installing snap on mint
+### installing snap on mint
 ```
 sudo rm /etc/apt/preferences.d/nosnap.pref
 ```
