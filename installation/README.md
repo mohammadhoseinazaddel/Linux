@@ -17,7 +17,7 @@ extentions
  
  Web Developer
 
-```bash
+```python
 sudo apt install axel
 ```
 usage: axel -ac -o[name] -s[speed] 
