@@ -1,5 +1,25 @@
 
+extentions 
+
+ Mate Translate 
+ 
+ transover
+ 
+ Adblock Plus
+ 
+ Youtube Subtitle Downloader
+ 
+ Bitwarden
+ 
+ Grammarly 
+ 
+ Wappalyzer == WhatRuns
+ 
+ Web Developer
+
+```
 sudo apt install axel
+```
 usage: axel -ac -o[name] -s[speed] 
 
 
