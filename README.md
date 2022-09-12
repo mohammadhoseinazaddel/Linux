@@ -17,7 +17,7 @@ lscpu
 ```
 #### memory
 ```
-free -h
+free -th
 ```
 
 ```
