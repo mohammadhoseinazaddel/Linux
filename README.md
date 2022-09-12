@@ -31,7 +31,7 @@ sudo dmidecode --type 17 | more
 df
 ```
 ```df -T``` shows the disk usage along with each block's filesystem type (e.g., xfs, ext2, ext3, btrfs, etc.)
-
+```fdisk -l``` shows disk size along with disk partitioning information
 #### file size in disk
 ```du``` shows the disk usage of files, folders, etc. in the default kilobyte size
 
