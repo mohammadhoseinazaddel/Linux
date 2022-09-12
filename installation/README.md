@@ -99,7 +99,8 @@ sudo snap install telegram-cli
 
 ### instaling oh my zsh
   guaidanc:https://github.com/robbyrussell/oh-my-zsh/wiki/Installing-ZSH
-  added plugins /installation/zshrc
+  
+  added plugins [/installation/zshrc](https://github.com/mohammadhoseinazaddel/Linux/blob/main/installation/zshrc)
 
 ```
 sudo apt install zsh
