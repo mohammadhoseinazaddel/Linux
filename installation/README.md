@@ -17,33 +17,43 @@ extentions
  
  Web Developer
 
-```python
+```
 sudo apt install axel
 ```
 usage: axel -ac -o[name] -s[speed] 
 
-
+```
 sudo apt install vlc
+```
 vlc subtitle word search 
 https://github.com/tcrespog/vlc-subtitle-word-search
 
-
+```
 sudo snap install --classic code
+```
+```
 sudo apt install unrar
+```
+```
 sudo apt install python3
+```
+```
 sudo apt install python3-pip
-
+```
 
 
 -installing chrome
+```
   sudo dpkg -i google-chrome-stable_current_amd64.deb 
-
+```
  
 
 
 -installing cisco
+
+```
  sudo apt install network-manager-openconnect-gnome
- 
+ ```
  guaidance:
         http://sspeedvpn12.xyz/cisco-for-linuxe/
  addreses:
