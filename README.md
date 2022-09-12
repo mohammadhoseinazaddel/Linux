@@ -17,6 +17,10 @@ lscpu
 ```
 #### memory
 ```
+free -h
+```
+
+```
 grep MemTotal /proc/meminfo
 ```
 ```
