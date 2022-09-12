@@ -30,11 +30,16 @@ sudo dmidecode --type 17 | more
 ```
 df
 ```
+
 ```df -T``` shows the disk usage along with each block's filesystem type (e.g., xfs, ext2, ext3, btrfs, etc.)
 
-```lsblk``` 
+```
+lsblk
+``` 
 
-```lsblk -d -o name,rota```  ssd or hdd
+```
+lsblk -d -o name,rota
+```  ssd or hdd
 
 
 ```fdisk -l``` shows disk size along with disk partitioning information
