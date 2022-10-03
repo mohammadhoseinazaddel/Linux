@@ -16,6 +16,15 @@
  Wappalyzer == WhatRuns
  
  Web Developer
+### pycharm extensions
+
+indent rainbow
+
+rainbow brackets
+
+Git Commit Message Plugin
+
+code with me
 
 ### Necessary apps
 ```
