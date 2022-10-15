@@ -22,7 +22,7 @@ indent rainbow
 
 rainbow brackets
 
-Git Commit Message Plugin
+Git Auto Prefix
 
 code with me
 
