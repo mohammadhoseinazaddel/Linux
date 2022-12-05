@@ -50,3 +50,7 @@ lsblk
 ```du -a``` shows disk usage for all files
 
 ```du -s``` provides total disk space used by a particular file or directory
+
+add port firewall
+
+```firewall-cmd --add-port=8001/tcp --permanent ```
