@@ -74,6 +74,6 @@
 تنظیمات پایتون و پورت فرواردینگش رو تنظیم کنید 
   
   
-    ![alt text](./images/12.png)
+![alt text](./images/12.png)
   
 </div>
