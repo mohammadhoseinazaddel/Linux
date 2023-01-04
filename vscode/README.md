@@ -3,4 +3,4 @@
 اکستنشن remote ssh و remote explorer رو نصب کنید
 </div>
 
-![alt text](./images/1.pn.g)
+![alt text](./images/1.png)
