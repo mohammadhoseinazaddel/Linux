@@ -76,4 +76,7 @@
   
 ![alt text](./images/12.png)
   
+for more:
+https://code.visualstudio.com/docs/python/debugging#_remote-script-debugging-with-ssh
+  
 </div>
