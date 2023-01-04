@@ -39,7 +39,7 @@
   حالا سرور نشان داده شده
   
   ![alt text](./images/7.png)
-  یا از طریق زیر[alt text](./images/8.png)
+  یا از طریق زیر
   
   ![alt text](./images/8.png)
   
