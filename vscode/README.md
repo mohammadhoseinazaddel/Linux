@@ -27,10 +27,10 @@
   
   ssh root@172....
   
-  [alt text](./images/5.png)
+  ![alt text](./images/5.png)
   
   این مرحله انتخابی است
-  [alt text](./images/6.png)
+  ![alt text](./images/6.png)
   
   حال دوباره روی دکمه قبلی کلیک کنید
   
@@ -38,20 +38,20 @@
   
   حالا سرور نشان داده شده
   
-  [alt text](./images/7.png)
+  ![alt text](./images/7.png)
   یا از طریق زیر[alt text](./images/8.png)
   
-  [alt text](./images/8.png)
+  ![alt text](./images/8.png)
   
   به مسیر پروژه برین
   حال باید interprter رو تغییر بدین
   ختما extensionهای ms-pythonرا به روش گقته شده اد کرده باشید
   f1 رو بزنید
   
-   [alt text](./images/9.png)
+   ![alt text](./images/9.png)
   
   مسیر interpreter رو مشخص کنید و با ارور زیر روبرو شویذ
-  [alt text](./images/10.png)
+  ![alt text](./images/10.png)
   
   
   https://learn.microsoft.com/en-us/answers/questions/724858/vscode-debugger-not-working-for-python.html
@@ -61,7 +61,7 @@
   
   و code --install-extension myextension.vsix
   و یا لوکال
-  [alt text](./images/11.png)
+  ![alt text](./images/11.png)
   
   2021.12.1559732655
   
