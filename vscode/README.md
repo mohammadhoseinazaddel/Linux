@@ -1,3 +1,6 @@
+```
+ssh://root@172.20.12.19:2242/usr/bin/python -u /root/.pycharm_helpers/pydev/pydevd.py --multiprocess --qt-support=auto --client 127.0.0.1 --port 59193 --file /etc/SAB-UI/server.py --port 8001
+```
 <div dir="rtl">
 نحوه ران در vscode
   
