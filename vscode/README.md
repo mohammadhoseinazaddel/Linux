@@ -112,6 +112,12 @@ https://code.visualstudio.com/docs/python/debugging#_remote-script-debugging-wit
 ```
   
 ```bash
-  firewall-cmd --add-port=8001/tcp --permanent
+  firewall-cmd --add-port=8099/tcp --permanent
+  ```
+```bash
+  scp -p2242 ms-python-release.vsix  root@172.20.12.111:/root/.vscode-server/bin/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247
+  system-cleaner.sh
+  tar zcvf ms-pylance.tar.gz ms-python.vscode-pylance-2022.1.3
+  tar zxvf ms-pylance.tar.gz
   ```
 </div>
