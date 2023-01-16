@@ -51,6 +51,12 @@ ssh://root@172.20.12.19:2242/usr/bin/python -u /root/.pycharm_helpers/pydev/pyde
   ختما extensionهای ms-pythonرا به روش گقته شده اد کرده باشید
   f1 رو بزنید
   
+  setting.json
+  
+  ```python
+  { "python.pythonPath": "/usr/bin/python" }
+  ```
+  
    ![alt text](./images/9.png)
   
   مسیر interpreter رو مشخص کنید و با ارور زیر روبرو شویذ
