@@ -84,7 +84,7 @@ ssh://root@172.20.12.19:2242/usr/bin/python -u /root/.pycharm_helpers/pydev/pyde
   
 for more:
 https://code.visualstudio.com/docs/python/debugging#_remote-script-debugging-with-ssh
-  
+```vscode  
 {
     "version": "0.2.0",
     "configurations": [
@@ -108,6 +108,7 @@ https://code.visualstudio.com/docs/python/debugging#_remote-script-debugging-wit
         }
     ]
 }
+```
   
 ```bash
   firewall-cmd --add-port=8001/tcp --permanent
