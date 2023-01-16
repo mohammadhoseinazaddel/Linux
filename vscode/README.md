@@ -85,4 +85,31 @@ ssh://root@172.20.12.19:2242/usr/bin/python -u /root/.pycharm_helpers/pydev/pyde
 for more:
 https://code.visualstudio.com/docs/python/debugging#_remote-script-debugging-with-ssh
   
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Python: server",
+            "type": "python",
+            "request": "launch",
+            "program": "server.py",
+            "args": [
+                "--port",
+                "8099"
+            ],
+            "console": "integratedTerminal"
+        }
+    ]
+}
+  
+```bash
+  firewall-cmd --add-port=8001/tcp --permanent
+  ```
 </div>
